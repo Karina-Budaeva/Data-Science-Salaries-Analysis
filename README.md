@@ -70,4 +70,9 @@ The dataset includes salary information for Data Science professionals from **20
   - Holds a leadership role (e.g., Data Science Tech Lead, Cloud Data Architect, Data Lead).  
   - Based in **Israel**, **Puerto Rico**, or the **US**.  
   - Works for a **medium-sized company**.  
-  - Operates either **fully remotely** or **on-site full-time**.  
+  - Operates either **fully remotely** or **on-site full-time**.
+
+---
+
+## License
+This repository is my personal portfolio and is intended solely to demonstrate my professional skills.
